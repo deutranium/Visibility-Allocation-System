@@ -1,5 +1,4 @@
 from abc import ABC, abstractmethod
-from VAS import main as M
 import pandas as pd
 
 
